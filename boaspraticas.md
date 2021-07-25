@@ -48,7 +48,7 @@ Este programa lhe permite fazer comparações entre até três arquivos, para ve
 
 #### Criando sua própria cópia do repositório
 
-1. Acesse o [repositório oficial](https://github.com/Ludeon/RimWorld-PortugueseBrazilian) e procure a opção **Fork** no menu superior esquerdo.
+1. Acesse o [repositório oficial](https://github.com/Ludeon/RimWorld-PortugueseBrazilian) e procure a opção **Fork** no menu superior direito.
     * Ela está localizada logo após as opções **Watch**/**Unwatch** e **Star**/**Unstar**;
 2. No pop-up que irá aparecer, clique no seu nome de usuário (para o qual você quer criar o repositório) e espere o repositório ser criado.
 
